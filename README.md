@@ -5,5 +5,5 @@ Python project for converting binary numbers to decimal.
 The file contains:
 1. A binary number validator
 2. String reversor
-3. Math function to calculate the conversion
+3. Math formula to calculate the conversion
 4. The option to calculate again
